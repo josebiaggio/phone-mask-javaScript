@@ -1,0 +1,20 @@
+div {
+    margin: 100px auto;
+    width: 200px;
+    display: grid;
+}
+
+label {
+    font-size: large;
+}
+
+input {
+    font-size: medium;
+    padding: 5px;
+}
+
+p {
+    font-size: small;
+    font-style: italic;
+}
+
